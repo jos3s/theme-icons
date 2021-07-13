@@ -17,6 +17,7 @@
     "email": "julissesmacedo@outlook.com",
     "url": "https://jos3s.dev/linktree"
   },
+  "license": "MIT",
   "keywords": ["icons"],
   "dependencies": {},
   "peerDependencies": {
