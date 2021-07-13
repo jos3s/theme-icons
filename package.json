@@ -1,6 +1,7 @@
 {
   "name": "fresh-icons",
   "version": "0.1.0",
+  "description": "A simple icon collection for when you just need essential icons.",
   "main": "dist/index.js",
   "private": false,
   "files": [
@@ -11,6 +12,12 @@
     "type": "git",
     "url": "https://github.com/jos3s/fresh-icons.git"
   },
+  "author": {
+    "name": "José Ulisses",
+    "email": "julissesmacedo@outlook.com",
+    "url": "https://jos3s.dev/linktree"
+  },
+  "keywords": ["icons"],
   "dependencies": {},
   "peerDependencies": {
     "@testing-library/jest-dom": "^5.11.4",
