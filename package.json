@@ -1,6 +1,6 @@
 {
   "name": "theme-icons",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "A simple icon collection for when you just need essential icons.",
   "main": "dist/index.js",
   "private": false,
