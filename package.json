@@ -1,6 +1,6 @@
 {
   "name": "fresh-icons",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A simple icon collection for when you just need essential icons.",
   "main": "dist/index.js",
   "private": false,
@@ -18,7 +18,9 @@
     "url": "https://jos3s.dev/linktree"
   },
   "license": "MIT",
-  "keywords": ["icons"],
+  "keywords": [
+    "icons"
+  ],
   "dependencies": {},
   "peerDependencies": {
     "@testing-library/jest-dom": "^5.11.4",
