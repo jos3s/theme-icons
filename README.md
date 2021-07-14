@@ -47,6 +47,12 @@ function ThemeSwitch() {
 | `details`   | `undefined` | `string` | use to set secondary color if it exists |
 | `size`      | `22`        | `number` |                           |
 
+## Icons avaliable
+
+- `Moon`
+- `Sun`
+- `FullMoon`
+
 ## License
 
 - [MIT](./LICENSE.md)
