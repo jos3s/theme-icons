@@ -19,7 +19,9 @@
   },
   "license": "MIT",
   "keywords": [
-    "icons"
+    "icons",
+    "theme",
+    "theme icons"
   ],
   "dependencies": {},
   "peerDependencies": {
