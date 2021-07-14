@@ -1,4 +1,4 @@
-# Fresh Icons
+# Theme Icons
 
 A simple icon collection for when you just need essential icons.
 
@@ -7,18 +7,18 @@ A simple icon collection for when you just need essential icons.
 In your react project, use:
 
 ```bash
-npm i fresh-icons
+npm i theme-icons
 
 -- or -- 
 
-yarn add fresh-icons
+yarn add theme-icons
 
 ```
 
 example usage:
 
 ```jsx
-import { Moon } from "fresh-icons";
+import { Moon } from "theme-icons";
 
 function ThemeSwitch() {
   render() {
@@ -32,7 +32,7 @@ function ThemeSwitch() {
 example usage
 
 ```jsx
-import { Moon } from "fresh-icons";
+import { Moon } from "theme-icons";
 
 function ThemeSwitch() {
   render() {

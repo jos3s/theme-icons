@@ -1,6 +1,6 @@
 {
-  "name": "fresh-icons",
-  "version": "0.2.0",
+  "name": "theme-icons",
+  "version": "0.1.0",
   "description": "A simple icon collection for when you just need essential icons.",
   "main": "dist/index.js",
   "private": false,
@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/jos3s/fresh-icons.git"
+    "url": "https://github.com/jos3s/theme-icons.git"
   },
   "author": {
     "name": "José Ulisses",
